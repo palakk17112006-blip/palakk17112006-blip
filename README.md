@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img align="right"
      alt="coding"
      width="400"
-     src="https://tenor.com/view/coding-girl-gif-2332171326726785246" />
+     src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" />
 </p>
 - Hi , I’m currently working on **Frontend Development Projects**
 
